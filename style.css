@@ -59,6 +59,23 @@ header ul, li, a{
     color: blue;
     text-decoration: underline aqua;
 }
+footer {
+    height: 70px;
+    text-align: center;
+    font-size: 20px;
+}
+footer a {
+    font-size: 20px;
+}
+footer p {
+    padding-top: 18px;
+}
+footer p:last-child {
+    font-size: 18px;
+}
+footer p span {
+    font-size: 16px;
+}
 
 
  
